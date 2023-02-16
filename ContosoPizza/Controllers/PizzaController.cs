@@ -24,7 +24,6 @@ public class PizzaController : ControllerBase
         return pizza;
     }
 
-    // POST action
 
     // PUT action
 
